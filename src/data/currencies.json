@@ -1,0 +1,122 @@
+[
+  {
+    "code": "AUD",
+    "name": "Dolar australiano"
+  },
+  {
+    "code": "BRL",
+    "name": "Real brasileiro"
+  },
+  {
+    "code": "CAD",
+    "name": "Dolar canadense"
+  },
+  {
+    "code": "CHF",
+    "name": "Franco suico"
+  },
+  {
+    "code": "CNY",
+    "name": "Yuan chines"
+  },
+  {
+    "code": "CZK",
+    "name": "Coroa tcheca"
+  },
+  {
+    "code": "DKK",
+    "name": "Coroa dinamarquesa"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  {
+    "code": "GBP",
+    "name": "Libra esterlina"
+  },
+  {
+    "code": "HKD",
+    "name": "Dolar de Hong Kong"
+  },
+  {
+    "code": "HUF",
+    "name": "Florim hungaro"
+  },
+  {
+    "code": "IDR",
+    "name": "Rupia indonesia"
+  },
+  {
+    "code": "ILS",
+    "name": "Novo shekel israelense"
+  },
+  {
+    "code": "INR",
+    "name": "Rupia indiana"
+  },
+  {
+    "code": "ISK",
+    "name": "Coroa islandesa"
+  },
+  {
+    "code": "JPY",
+    "name": "Iene japones"
+  },
+  {
+    "code": "KRW",
+    "name": "Won sul-coreano"
+  },
+  {
+    "code": "MXN",
+    "name": "Peso mexicano"
+  },
+  {
+    "code": "MYR",
+    "name": "Ringgit malaio"
+  },
+  {
+    "code": "NOK",
+    "name": "Coroa norueguesa"
+  },
+  {
+    "code": "NZD",
+    "name": "Dolar neozelandes"
+  },
+  {
+    "code": "PHP",
+    "name": "Peso filipino"
+  },
+  {
+    "code": "PLN",
+    "name": "Zloti polones"
+  },
+  {
+    "code": "RON",
+    "name": "Leu romeno"
+  },
+  {
+    "code": "SEK",
+    "name": "Coroa sueca"
+  },
+  {
+    "code": "SGD",
+    "name": "Dolar de Singapura"
+  },
+  {
+    "code": "THB",
+    "name": "Baht tailandes"
+  },
+  {
+    "code": "TRY",
+    "name": "Lira turca"
+  },
+  {
+    "code": "USD",
+    "name": "Dolar americano"
+  },
+  {
+    "code": "ZAR",
+    "name": "Rand sul-africano"
+  }
+]
